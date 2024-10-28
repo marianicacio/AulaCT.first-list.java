@@ -1,4 +1,4 @@
-public class Cpf {
+public class CPF {
 
 	public static void main(String[] args) {
 		double i, cpf, dig, r, acumulador, e;
